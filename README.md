@@ -33,8 +33,6 @@ The analysis suggests focusing inventory on high-performing products, planning s
 
 The dashboard provides an interactive view of revenue, sales volume, promotions, sections, product positions, seasons, categories, and origins.
 
-![Zara Sales Analysis Dashboard](zara Sales PowerBI.pbix)
-
 ### Skills Demonstrated
 
 **Power BI | Data Analysis | Data Visualization | DAX | Power Query | Business Insights**
